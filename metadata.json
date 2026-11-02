@@ -1,0 +1,6 @@
+{
+  "name": "Iron Front",
+  "description": "2.5D İzometrik Idle Askeri Ülke Savunması ve Strateji Oyunu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

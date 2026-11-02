@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Iron Front</string>
+    <string name="nav_frontline">Cephe</string>
+    <string name="nav_factories">Tesisler</string>
+    <string name="nav_headquarters">Karargâh</string>
+    <string name="nav_store">İkmal &amp; Mağaza</string>
+    <string name="tactical_airstrike">Hava Desteği</string>
+    <string name="tactical_artillery">Topçu Atışı</string>
+    <string name="tactical_shield_boost">Kalkan Yükle</string>
+    <string name="wave_preparing">HAZIRLIK</string>
+    <string name="wave_fighting">ÇATIŞMA</string>
+    <string name="wave_completed">DALGA TAMAMLANDI</string>
+    <string name="reward_selection_title">TAKTİKSEL İKMAL SEÇİMİ</string>
+    <string name="offline_earnings_title">ÇEVRİMDIŞI ÜRETİM RAPORU</string>
+    <string name="claim_normal">Normal Topla</string>
+    <string name="claim_double_ad">Reklam İzle — 2x Al</string>
+    <string name="prestige_title">GENERAL TERFİSİ</string>
+</resources>
